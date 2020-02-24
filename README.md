@@ -1,3 +1,10 @@
+# RetailNext Fork
+
+We maintain our own fork of https://github.com/trek/grunt-neuter. Why? Because this way if the original project
+gets removed from GitHub, we will still be able to build our code.
+
+----
+
 # grunt-neuter [![Build Status](https://travis-ci.org/trek/grunt-neuter.png)](https://travis-ci.org/trek/grunt-neuter)
 
 
